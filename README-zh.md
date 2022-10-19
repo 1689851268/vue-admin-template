@@ -17,11 +17,11 @@
    </a>
 </p>
 
-## Extra
+# Extra
 
-如果你想要根据用户角色来动态生成侧边栏和 router，你可以使用该分支[permission-control](https://github.com/PanJiaChen/vue-admin-template/tree/permission-control)
+如果你想要根据用户角色来动态生成侧边栏和 router，你可以使用该分支 [permission-control](https://github.com/PanJiaChen/vue-admin-template/tree/permission-control)
 
-## 相关项目
+# 相关项目
 
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
 
@@ -39,7 +39,7 @@
 - [手摸手，带你用 vue 撸后台 系列四(vueAdmin 一个极简的后台基础模板,专门针对本项目的文章,算作是一篇文档)](https://juejin.im/post/595b4d776fb9a06bbe7dba56)
 - [手摸手，带你封装一个 vue component](https://segmentfault.com/a/1190000009090836)
 
-## Build Setup
+# Build Setup
 
 ```bash
 # 克隆项目
@@ -60,7 +60,7 @@ npm run dev
 
 浏览器访问 [http://localhost:9528](http://localhost:9528)
 
-## 发布
+# 发布
 
 ```bash
 # 构建测试环境
@@ -70,7 +70,7 @@ npm run build:stage
 npm run build:prod
 ```
 
-## 其它
+# 其它
 
 ```bash
 # 预览发布环境效果
@@ -88,15 +88,15 @@ npm run lint -- --fix
 
 更多信息请参考 [使用文档](https://panjiachen.github.io/vue-element-admin-site/zh/)
 
-## 购买贴纸
+# 购买贴纸
 
 你也可以通过 购买[官方授权的贴纸](https://smallsticker.com/product/vue-element-admin) 的方式来支持 vue-element-admin - 每售出一张贴纸，我们将获得 2 元的捐赠。
 
-## Demo
+# Demo
 
 ![demo](https://github.com/PanJiaChen/PanJiaChen.github.io/blob/master/images/demo.gif)
 
-## Browsers support
+# Browsers support
 
 Modern browsers and Internet Explorer 10+.
 
@@ -104,7 +104,7 @@ Modern browsers and Internet Explorer 10+.
 | --------- | --------- | --------- | --------- |
 | IE10, IE11, Edge| last 2 versions| last 2 versions| last 2 versions
 
-## License
+# License
 
 [MIT](https://github.com/PanJiaChen/vue-admin-template/blob/master/LICENSE) license.
 
